@@ -1,6 +1,6 @@
 # Тренировки по алгоритмам 2.0
 
-![logo](images/logo.jpeg)
+![logo](images/logo.jpg)
 
 Мои решения задач из [тренировок по алгоритмам](https://yandex.ru/yaintern/algorithm-training) от Яндекса.
 
