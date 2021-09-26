@@ -20,3 +20,16 @@
 | [1-C](/Division_B/Homework_1/C.py) | ✅ |
 | [1-D](/Division_B/Homework_1/D.py) | ✅ |
 | [1-E](/Division_B/Homework_1/E.py) | ✅ |
+
+### Линейный поиск
+
+- [Лекция](https://youtu.be/SKwB41FrGgU)
+- [Разбор задач](https://youtu.be/WZgl1GW3lMA)
+
+| Номер задачи | Решено |
+|---|---|
+| [1-A](/Division_B/Homework_2/A.py) | ✅ |
+| [1-B](/Division_B/Homework_2/B.py) | ✅ |
+| [1-C](/Division_B/Homework_2/C.py) | ✅ |
+| [1-D](/Division_B/Homework_2/D.py) | ✅ |
+| [1-E](/Division_B/Homework_2/E.py) | ✅ |
